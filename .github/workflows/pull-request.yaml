@@ -8,6 +8,4 @@ on:
 jobs:
   main:
     uses: codbex/codbex-infra/.github/workflows/module-pull-request.yaml@main
-    with:
-      packages-build: 
     secrets: inherit
