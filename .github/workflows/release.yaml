@@ -24,7 +24,7 @@ jobs:
         ## Installation
   
         ```
-        npm install @codbex/codbex-branding@${{ inputs.release-version }}
+        npm install @codbex/ide-branding@${{ inputs.release-version }}
         ```
   
         ## Access points:
